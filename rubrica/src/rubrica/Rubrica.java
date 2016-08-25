@@ -18,6 +18,7 @@ public class Rubrica {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Veronica Seminario Moreira");
+        System.out.println("Quinto B");
     }
     
 }
